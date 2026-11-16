@@ -1,0 +1,9 @@
+{
+  "client_id": "https://ivelin.github.io/oauth-client-metadata/luma-client.json",
+  "client_name": "Muse — Ivelin's personal agent",
+  "redirect_uris": ["https://agent.meta.ai/api/hatch/oauth/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "application_type": "web"
+}
